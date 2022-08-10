@@ -2,6 +2,6 @@
 
 <center>
 
-![](tiktok.png)
+![tiktok logo](tiktok.png)
 
 </center>
